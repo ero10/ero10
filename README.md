@@ -20,7 +20,7 @@
 ### 💬 Get in touch
 
 - Email: [ertine.rb@gmail.com](https://gmail.com)
-- LinkedIn: [linkedin.com/in/ertine-oorzhak/](https://www.linkedin.com/in/ertine-oorzhak-71081823a/)
+- LinkedIn: [linkedin.com/in/ertine-oorzhak](https://www.linkedin.com/in/ertine-oorzhak-71081823a/)
 - Telegram: [@er_rb](https://t.me/er_rb/)
 
 ### You can see my projects in pinned repositories!
