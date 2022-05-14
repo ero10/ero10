@@ -14,6 +14,8 @@
 - React
 - Redux
 - NodeJS
+- Express
+- Sequelize
 
 ### 💬 Get in touch
 
