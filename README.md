@@ -16,6 +16,7 @@
 - NodeJS
 - Express
 - Sequelize
+- Material-UI
 
 ### 💬 Get in touch
 
