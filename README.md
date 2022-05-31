@@ -1,9 +1,5 @@
 ## Hello there!👋 I'm Ertine😄
 
-### ⚡ I'm **JavaScript** Developer 
-
-- 🔭 *Previously*: Trainee Full Stack JS Developer at Elbrus Bootcamp. [Link](https://elbrusboot.camp/)
-
 ### 🌱 Education
 
 - Bachelor Degree (2016 - 2020) - **Tomsk State University of Control Systems and Radioelectronics**, TUSUR
