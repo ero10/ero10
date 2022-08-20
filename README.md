@@ -3,7 +3,6 @@
 ### 🌱 Education
 
 - Bachelor Degree (2016 - 2020) - **Tomsk State University of Control Systems and Radioelectronics**, TUSUR
-- Master Degree (2021 - 2023) - **National Research Tomsk Polytechnic University**, TPU
 
 ### 🤔 Stack
 
